@@ -26,3 +26,4 @@ go.work.sum
 
 # local dylib
 storage
+/config
